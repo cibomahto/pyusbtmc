@@ -1,0 +1,3 @@
+PyUSBtmc is a simple library for interacting with test equipment (primarily Rigol oscilloscopes).
+
+It was conceived of by Matt Mets in 2010, and is distributed under the MIT License. See LICENSE for a copy of this license.
